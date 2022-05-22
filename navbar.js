@@ -1,5 +1,5 @@
 document.write(`<nav>
-	<a href="/">
+	<a href="index.html">
 		<img alt="Logo" src="icon.png" height="35" />
 	</a>
 	<ul>
