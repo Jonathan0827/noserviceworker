@@ -4,7 +4,7 @@ document.write(`<nav>
 	</a>
 	<ul>
 		<li>
-			<a href="#">About me</a>
+			<a href="about.html">About me</a>
 		</li>
 		<li>
 			<a href="https://github.com/Jonathan0827?tab=repositories">
