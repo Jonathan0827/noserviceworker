@@ -2,7 +2,7 @@
 .fade-in:hover {
   animation-name: FadeIn;
   animation-duration: 1.5s;
-  /* transition-timing-function: linear; */
+
 }
 
 @keyframes FadeIn {
