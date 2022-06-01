@@ -3,6 +3,9 @@ document.write(`<nav>
 		<img alt="Logo" src="icon.png" height="35" />
 	</a>
 	<ul>
+		<!-- <li>
+			<a href="dday.html">D-day</a>
+		</li> -->
 		<li>
 			<a href="about.html">About me</a>
 		</li>
