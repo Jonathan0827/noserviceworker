@@ -1,6 +1,6 @@
 document.write(`<nav>
 	<a href="index.html">
-		<img alt="Logo" src="icon.png" height="35" />
+		<img alt="Logo" src="icon.png" height="60" />
 	</a>
 	<ul>
 		<li>

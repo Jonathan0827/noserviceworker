@@ -1,4 +1,4 @@
-var dday = new Date("June 7, 2022, 00:02:00").getTime();
+var dday = new Date("June 7, 2022, 02:00:00").getTime();
 
 setInterval(function () {
 	var today = new Date().getTime();
