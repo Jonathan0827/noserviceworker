@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Jonathan0827/jonathan0827.github.io/issues"
   },
-  "homepage": "https://github.com/Jonathan0827/jonathan0827.github.io#readme"
+  "homepage": "https://github.com/Jonathan0827/jonathan0827.github.io#readme",
+  "dependencies": {
+    "aos": "^2.3.4"
+  }
 }
