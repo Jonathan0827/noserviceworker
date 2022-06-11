@@ -83,7 +83,7 @@ document.getElementById("nav").innerHTML = `<nav>
 <a href="index.html">
     <img alt="Logo" src="icon.png" height="35" />
 </a>
-<!-- <ul>
+<ul>
     <li>
         <a href="dday.html">D-day</a>
     </li> 
@@ -108,8 +108,5 @@ document.getElementById("nav").innerHTML = `<nav>
     <li>
         <a href="/#feedbackSection">Feedback</a>
     </li>
-</ul> -->
-<div class="hamburger></div>
-<div class="hamburger></div>
-<div class="hamburger></div>
+</ul>
 </nav>`; //nav
