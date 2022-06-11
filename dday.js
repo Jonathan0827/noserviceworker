@@ -9,7 +9,7 @@ setInterval(function () {
 	var s = Math.ceil((gap % (1000 * 60)) / 1000 - 1);
 	if (gap <= 0) {
 		document.getElementById("count").innerHTML =
-			"iOS 16, iPadOS 16, macOS 13, watchOS 8, tvOS 16";
+			"<h2>iOS 16, iPadOS 16, macOS 13, watchOS 8, tvOS 16";
 	} else {
 		document.getElementById(
 			"count"

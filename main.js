@@ -72,6 +72,7 @@ href="/favicon-16x16.png"
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
 
 <link rel="stylesheet" href="./style.css" />
+<link rel="stylesheet" href="aos.css"> 
 
 <meta charset="utf-8" />
 <meta name="description" content="My description" />
@@ -82,7 +83,7 @@ document.getElementById("nav").innerHTML = `<nav>
 <a href="index.html">
     <img alt="Logo" src="icon.png" height="35" />
 </a>
-<ul>
+<!-- <ul>
     <li>
         <a href="dday.html">D-day</a>
     </li> 
@@ -107,5 +108,8 @@ document.getElementById("nav").innerHTML = `<nav>
     <li>
         <a href="/#feedbackSection">Feedback</a>
     </li>
-</ul>
-</nav>`;
+</ul> -->
+<div class="hamburger></div>
+<div class="hamburger></div>
+<div class="hamburger></div>
+</nav>`; //nav
