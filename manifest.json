@@ -1,0 +1,40 @@
+{
+	"description": "Jonathan",
+	"shortcuts": [
+		{
+			"name": "D-day",
+			"short_name": "D-day",
+			"description": "D-day",
+			"url": "/dday.html",
+			"icons": [
+				{
+					"src": "icon.png",
+					"sizes": "500x500"
+				}
+			]
+		}
+	],
+	"screenshots": [
+		{
+			"src": "screenshot.png",
+			"sizes": "2614x1090",
+			"type": "image/png",
+			"description": "PWABuilder Home Screen"
+		}
+	],
+	"dir": "ltr",
+	"display": "fullscreen",
+	"name": "Jonathan's site",
+	"orientation": "any",
+	"scope": "/",
+	"short_name": "Jonathan0827",
+	"start_url": "/",
+	"theme_color": "#ffffff",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "./icon.png",
+			"type": "image/x-icon"
+		}
+	]
+}

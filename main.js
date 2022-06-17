@@ -67,13 +67,20 @@ type="image/png"
 sizes="16x16"
 href="/favicon-16x16.png"
 />
-<link rel="manifest" href="/manifest.json" />
 
+<link rel="manifest" href="manifest.json" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="Jonathan" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
 
 <link rel="stylesheet" href="./style.css" />
 <link rel="stylesheet" href="aos.css"> 
-
+<script type="module">
+   import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+   const el = document.createElement('pwa-update');
+   document.body.appendChild(el);
+</script>
 <meta charset="utf-8" />
 <meta name="description" content="My description" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
