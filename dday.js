@@ -8,8 +8,7 @@ setInterval(function () {
 	var m = Math.ceil((gap % (1000 * 60 * 60)) / (1000 * 60) - 1);
 	var s = Math.ceil((gap % (1000 * 60)) / 1000 - 1);
 	if (gap <= 0) {
-		document.getElementById("count").innerHTML =
-			"<h2>iOS 16, iPadOS 16, macOS 13, watchOS 8, tvOS 16";
+		document.getElementById("count").innerHTML = "<h2>No D-day to view.";
 	} else {
 		document.getElementById(
 			"count"
