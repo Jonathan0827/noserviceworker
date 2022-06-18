@@ -36,7 +36,7 @@
 			"src": "icon-mask.png",
 			"sizes": "800x800",
 			"purpose": "maskable"
-		}
+		},
 		{
 			"src": "favicon.png",
 			"sizes": "512x512"
