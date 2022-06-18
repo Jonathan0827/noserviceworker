@@ -8,10 +8,6 @@
 			"url": "/dday.html",
 			"icons": [
 				{
-					"src": "icon-high.png",
-					"sizes": "2048x2048"
-				}
-				{
 					"src": "icon-mask.png"
 					"sizes": "2048x2048"
 				}
