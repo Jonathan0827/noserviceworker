@@ -19,7 +19,7 @@
 			"src": "screenshot.png",
 			"sizes": "2614x1090",
 			"type": "image/png",
-			"description": "PWABuilder Home Screen"
+			"description": "Home Screen"
 		}
 	],
 	"dir": "ltr",
@@ -38,7 +38,7 @@
 			"purpose": "maskable"
 		}
 		{
-			"src": "favicon.png"
+			"src": "favicon.png",
 			"sizes": "512x512"
 		}
 	]
