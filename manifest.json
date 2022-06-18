@@ -8,24 +8,25 @@
 			"url": "/dday.html",
 			"icons": [
 				{
-			"src": "icon-mask.png",
-			"sizes": "800x800",
-			"purpose": "maskable"
-		},
-		{
-			"src": "favicon.png",
-			"sizes": "512x512",
-			"purpose": "any"
-		},{
-			"src": "icon256.png",
-			"sizes": "256x256",
-			"purpose": "any"
-		},
-		{
-			"src": "icon128.png",
-			"sizes": "128x128",
-			"purpose": "any"
-		}
+					"src": "icon-mask.png",
+					"sizes": "800x800",
+					"purpose": "maskable"
+				},
+				{
+					"src": "favicon.png",
+					"sizes": "512x512",
+					"purpose": "any"
+				},
+				{
+					"src": "icon256.png",
+					"sizes": "256x256",
+					"purpose": "any"
+				},
+				{
+					"src": "icon128.png",
+					"sizes": "128x128",
+					"purpose": "any"
+				}
 			]
 		}
 	],
@@ -44,19 +45,15 @@
 	"scope": "/",
 	"short_name": "Jonathan0827",
 	"start_url": "/",
-	"theme_color": "#ffffff",
+	"theme_color": "#000000",
 	"background_color": "#ffffff",
 	"icons": [
-		{
-			"src": "icon-mask.png",
-			"sizes": "800x800",
-			"purpose": "maskable"
-		},
 		{
 			"src": "favicon.png",
 			"sizes": "512x512",
 			"purpose": "any"
-		},{
+		},
+		{
 			"src": "icon256.png",
 			"sizes": "256x256",
 			"purpose": "any"
@@ -65,6 +62,11 @@
 			"src": "icon128.png",
 			"sizes": "128x128",
 			"purpose": "any"
+		},
+		{
+			"src": "icon-mask.png",
+			"sizes": "800x800",
+			"purpose": "maskable"
 		}
 	]
 }
