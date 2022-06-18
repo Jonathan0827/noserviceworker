@@ -95,9 +95,6 @@ document.getElementById("nav").innerHTML = `<nav>
         <a href="dday.html">D-day</a>
     </li> 
     <li>
-        <a href="about.html">About me</a>
-    </li>
-    <li>
         <a href="https://github.com/Jonathan0827?tab=repositories">
             Projects
         </a>
