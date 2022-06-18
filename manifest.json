@@ -11,6 +11,10 @@
 					"src": "icon-high.png",
 					"sizes": "2048x2048"
 				}
+				{
+					"src": "icon-mask.png"
+					"sizes": "2048x2048"
+				}
 			]
 		}
 	],
@@ -33,7 +37,8 @@
 	"background_color": "#ffffff",
 	"icons": [
 		{
-			"src": "./icon-high.png",
+			"src": "./icon-mask.png",
+			"sizes": "800x800"
 			"type": "image/x-icon"
 		}
 	]
