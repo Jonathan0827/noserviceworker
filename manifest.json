@@ -8,7 +8,7 @@
 			"url": "/dday.html",
 			"icons": [
 				{
-					"src": "icon-mask.png"
+					"src": "icon-mask.png",
 					"sizes": "800x800"
 				}
 			]
@@ -34,7 +34,7 @@
 	"icons": [
 		{
 			"src": "./icon-mask.png",
-			"sizes": "800x800"
+			"sizes": "800x800",
 			"type": "image/x-icon"
 		}
 	]
