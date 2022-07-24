@@ -1,4 +1,4 @@
-var dday = new Date("July 20, 2022, 08:30:00").getTime();
+var dday = new Date("August 24, 2022, 09:00:00").getTime();
 
 setInterval(function () {
 	var today = new Date().getTime();
@@ -12,6 +12,6 @@ setInterval(function () {
 	} else {
 		document.getElementById(
 			"count"
-		).innerHTML = `<h2>${d} days ${h} hours ${m} minutes ${s} seconds left untill summer vacation`;
+		).innerHTML = `<h2>${d} days ${h} hours ${m} minutes ${s} seconds left untill second semester.`;
 	}
 }, 1);
