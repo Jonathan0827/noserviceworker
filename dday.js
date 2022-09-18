@@ -1,4 +1,4 @@
-var dday = new Date("September 8, 2022, 02:00:00").getTime();
+var dday = new Date("September 24, 2022, 10:30:00").getTime();
 setInterval(function () {
 	var today = new Date();
 	const utc = 
@@ -17,6 +17,6 @@ const kr_curr =
 	} else {
 		document.getElementById(
 			"count"
-		).innerHTML = `<h2>${d} days ${h} hours ${m} minutes ${s} seconds left untill <a href="https://www.apple.com/apple-events/">Apple Far Out</a> event.`;
+		).innerHTML = `<h2>${d} days ${h} hours ${m} minutes ${s} seconds left untill <a href="https://www.apple.com/kr/retail/jamsil/">Apple Store Korea Jamsil</a> opening.`;
 	}
 }, 1);
