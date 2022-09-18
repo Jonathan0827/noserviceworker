@@ -114,4 +114,4 @@ document.getElementById("nav").innerHTML = `<nav>
     </li>
 </ul>
 </nav>`; //nav
-// import "./pwabuilder-sw";
+document.getElementById("footer").innerHTML=`<footer><small>Made by <a href="https://github.com/Jonathan0827" target="_blank">Jonathan0827</a></small></footer>`
