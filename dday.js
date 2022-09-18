@@ -19,4 +19,4 @@ const kr_curr =
 			"count"
 		).innerHTML = `<h2>${d} days ${h} hours ${m} minutes ${s} seconds left untill <a href="https://www.apple.com/kr/retail/jamsil/">Apple Store Korea Jamsil</a> opening.`;
 	}
-}, 1);
+}, 1000);
