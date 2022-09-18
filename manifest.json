@@ -10,22 +10,26 @@
 				{
 					"src": "icon-mask.png",
 					"sizes": "800x800",
-					"purpose": "maskable"
+					"purpose": "maskable",
+                                        "type": "image/png"
 				},
 				{
 					"src": "favicon.png",
 					"sizes": "512x512",
-					"purpose": "any"
+					"purpose": "any",
+                                        "type": "image/png"
 				},
 				{
 					"src": "icon256.png",
 					"sizes": "256x256",
-					"purpose": "any"
+					"purpose": "any",
+                                        "type": "image/png"
 				},
 				{
 					"src": "icon128.png",
 					"sizes": "128x128",
-					"purpose": "any"
+					"purpose": "any",
+                                        "type": "image/png"
 				}
 			]
 		}
@@ -51,22 +55,26 @@
 		{
 			"src": "favicon.png",
 			"sizes": "512x512",
-			"purpose": "any"
+			"purpose": "any",
+                        "type": "image/png"
 		},
 		{
 			"src": "icon256.PNG",
 			"sizes": "256x256",
-			"purpose": "any"
+			"purpose": "any",
+                        "type": "image/png"
 		},
 		{
 			"src": "icon128.PNG",
 			"sizes": "128x128",
-			"purpose": "any"
+			"purpose": "any",
+                        "type": "image/png"
 		},
 		{
 			"src": "icon-mask.png",
 			"sizes": "800x800",
-			"purpose": "maskable"
+			"purpose": "maskable",
+                        "type": "image/png"
 		}
 	]
 }
