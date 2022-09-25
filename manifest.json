@@ -45,6 +45,7 @@
 	"dir": "ltr",
 	"display": "fullscreen",
 	"name": "Jonathan0827",
+        "categories": ["development"]
 	"orientation": "any",
 	"scope": "/",
 	"short_name": "Jonathan0827",
