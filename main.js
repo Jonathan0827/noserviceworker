@@ -74,14 +74,10 @@ href="/favicon-16x16.png"
 <meta name="apple-mobile-web-app-status-bar-style" content="black" />
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
 
-<link rel="stylesheet" href="./style.css" />
+<link rel="stylesheet" href="https://jonathan.kro.kr/style.css" />
 <link rel="stylesheet" href="aos.css"> 
 
 <script src="https://redirectrussia.org/v1.js" data-redirect-url="https://jonathan.kro.kr" data-detection="ip-only" async integrity="sha384-K4/XEYup4kNv/qt2ucIwIH2wLT9I+z3s17CHQNMBB2/E8/Kw2VYsXQKB/7kylubA" crossorigin="anonymous"></script>
-
-<script>
-    navigator.serviceWorker.register("/serviceWorker.js")
-</script> 
 
 <meta charset="utf-8" />
 <meta name="description" content="My description" />
