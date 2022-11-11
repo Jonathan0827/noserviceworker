@@ -79,12 +79,8 @@ href="/favicon-16x16.png"
 <script src="https://redirectrussia.org/v1.js" data-redirect-url="https://jonathan.kro.kr" data-detection="ip-only" async integrity="sha384-K4/XEYup4kNv/qt2ucIwIH2wLT9I+z3s17CHQNMBB2/E8/Kw2VYsXQKB/7kylubA" crossorigin="anonymous"></script>
 
 <script>
- if('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/sw.js').then(function(registration) {
-      console.log('ServiceWorker registration successful with scope: ', registration.active);
-    });
-  };
-</script>
+    navigator.serviceWorker.register("/serviceWorker.js")
+</script> 
 
 <meta charset="utf-8" />
 <meta name="description" content="My description" />
@@ -119,4 +115,6 @@ document.getElementById("nav").innerHTML = `<nav>
     </li>
 </ul>
 </nav>`; //nav
-document.getElementById("footer").innerHTML=`<footer><small>Made by <a href="https://github.com/Jonathan0827" target="_blank">Jonathan0827</a></small></footer>`
+document.getElementById(
+	"footer"
+).innerHTML = `<footer><small>Made by <a href="https://github.com/Jonathan0827" target="_blank">Jonathan0827</a></small></footer>`;
